@@ -35,6 +35,10 @@ Windows development PC
   |
   +-- Optional local LLM server
 ```
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b6fc5831-ffb2-469b-bb48-9ab58d417040" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/dbff21c6-a247-4d11-8dda-e7be0646cd94" />
+
 
 Claude Code and Copilot CLI actually run on the Windows PC. The iPhone is simply a remote terminal. This is especially useful if your coding agent is configured to use a local LLM that is only accessible from the development PC.
 
