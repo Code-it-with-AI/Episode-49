@@ -2,7 +2,7 @@
 
 Carl shows how to remotely access your local machine and run Copilot or Claude against a local LLM
 
-📺 YouTube video: https://youtu.be/
+📺 YouTube video: https://youtu.be/QNwG59oBvac
 
 🏠 Code it with AI Home Page: [https://codeitwithai.com](https://codeitwithai.com/)
 
